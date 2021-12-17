@@ -1,4 +1,8 @@
 - 👋 Hi, I’m @JonLev03-hub
 
 
-Im currently studying Data Science through a bootcamp at butler. I have always been interusted in coding, starting in middleschool making small games with the unity, and now im looking to find a career in the datascience field after I get more experience. I love working with stock and finance data, and would love to create financial tools in the future. I mostly work with python but hope to expand my knowledge so I will be able to perform tasks more effectively. 
+ My name is Jonathan, I'm a up and coming datascientist with a background in game development and mathmatics.
+                        To perform datascience I have learned Python, C, Javascript, SQL, and HTML, and have gainedfield specific knowledge 
+                        from personal projects and training with Butler Universities Data Science bootcamp. With my skills in multiple programming languages
+                        , problem solving, and chart visualization I am able to effectively do data analysis and show results to a large audience. I'd love if
+                        you had a look at some of my work displayed in my portfolio!
