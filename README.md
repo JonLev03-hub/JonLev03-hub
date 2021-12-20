@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @JonLev03-hub
-
 
  My name is Jonathan, I'm a up and coming datascientist with a background in game development and mathmatics.
                         To perform datascience I have learned Python, C, Javascript, SQL, and HTML, and have gainedfield specific knowledge 
