@@ -1,9 +1,1 @@
-
- My name is Jonathan, I'm a up and coming datascientist with a background in game development and mathmatics.
-                        To perform datascience I have learned Python, C, Javascript, SQL, and HTML, and have gainedfield specific knowledge 
-                        from personal projects and training with Butler Universities Data Science bootcamp. With my skills in multiple programming languages
-                        , problem solving, and chart visualization I am able to effectively do data analysis and show results to a large audience. I'd love if
-                        you had a look at some of my work displayed in my portfolio!
-                        Feel free to contact me at JonLev03@gmail.com
-                        
-  
+My name is Jonathan, I'm an up-and-coming software engineer with a background in data analytics and mathematics. I love to build a responsive and interactive website and am currently learning how to improve my skills to work with back-end development. My interest in programming began in Highschool when I took many computer science courses. To further my experience I have also taken Butler University's data science certification program sharpening my skills in the field. Since that certification, I have been working on Freelance contracts and tailoring my skills to software engineering.
